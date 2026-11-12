@@ -8,4 +8,4 @@ I'm an Information Technology student and software developer passionate about bu
 - **Mobile & Web:** Flutter, React.js, Jetpack Compose, Flask, HTML/CSS, Tailwind CSS
 - **Databases & Tools:** PostgreSQL, MySQL, SQLite, Supabase, Git/GitHub, Wireshark, Figma
 
-👇 **Explore my featured projects pinned below!**
+👇 **Explore some of my featured projects pinned below!**
